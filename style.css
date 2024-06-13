@@ -34,7 +34,8 @@
   font-size: 8em;
 }
 .increase,
-.decrease {
+.decrease,
+.reset {
   padding: 10px 12px;
   border-radius: 5px;
   font-size: 1em;
